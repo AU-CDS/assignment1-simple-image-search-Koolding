@@ -1,6 +1,6 @@
 ### Visual Assignment 1
 ## Cultural Data Science - Visual Analytics 
-# Author: Rikke Uldbæk (202007501)
+# Author: Christian Norup Kolding (201805727)
 # Date: 2nd of May 2023
 
 #--------------------------------------------------------#
